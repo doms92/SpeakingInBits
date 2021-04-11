@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakingInBits", "SpeakingInBits\SpeakingInBits.csproj", "{3613F5EE-23B6-4F71-8629-CE7C0361BDCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3613F5EE-23B6-4F71-8629-CE7C0361BDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3613F5EE-23B6-4F71-8629-CE7C0361BDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3613F5EE-23B6-4F71-8629-CE7C0361BDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3613F5EE-23B6-4F71-8629-CE7C0361BDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC84C896-E838-4DBA-8736-EC3966BED4F7}
+	EndGlobalSection
+EndGlobal
